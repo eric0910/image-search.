@@ -7,7 +7,7 @@ In addition, the project is non-profitable  as the main aim is to learn.
 Built with HTML5,CSS and JavaScript for functionality purpose.
 # Launch.
 The minimum requirements required to use, your device should be having any browser(Chrome, Brave).
-I have deployed it on GitHub pages. Follow this link to view the deployment eric0910.github.io/image-search./ 
+I have deployed it on GitHub pages. Follow this link to view the deployment [Deployment Link](eric0910.github.io/image-search./)
 
 ## License.
 This project is lincensed under the General Public Lincense (GPL).
