@@ -90,6 +90,7 @@
         display: block;
         padding: 10px;
         text-transform: capitalize;
+        text-decoration: underline;
     }
     
     #show-more-button {
