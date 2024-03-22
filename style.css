@@ -86,13 +86,24 @@
     .search-result a {
         font-size: 20px;
         text-decoration: none;
-        color: #333;
+        color: blue;
         display: block;
         padding: 10px;
         text-transform: capitalize;
         text-decoration: underline;
+        line-height: 1.5;
+        cursor: pointer;
+
     }
-    
+    a:visited{
+        color: purple;
+    }
+    a:hover{
+        color: dodgerblue;
+    }
+    a:active{
+        color: red;
+    }
     #show-more-button {
         background-color: #008cba;
         font-size: 18px;
